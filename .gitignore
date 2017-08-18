@@ -103,4 +103,4 @@ ENV/
 # local test files
 test/
 *.sh
-
+.*
